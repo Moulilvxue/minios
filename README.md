@@ -1,2 +1,2 @@
 # minios
-This is a project based on the book named 《操作系统真相还原》.In 
+This is a project based on the book named 《操作系统真相还原》. In the projec,there are four main folders. The first one is folder mbr, in this folder there are different versions of mbr. The second one is folder loader, there are different versions of loader in it. In the folder lib,there are another two important folders, the first is folder kernel, our kernel puts in it. And another is folder user, we don't use it right now. In the folder tool, we put some script we used. And the file boot.inc is some used information of mbr and loader.  
